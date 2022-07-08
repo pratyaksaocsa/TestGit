@@ -4,5 +4,5 @@ Ini teks tambahan lhoooo
 
 ## Collaborators
 
-Watchers :
+Owner :
   - Pratyaksa Ocsa __(@pratyaksaocsa)__
