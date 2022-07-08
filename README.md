@@ -6,7 +6,3 @@ Ini teks tambahan lhoooo
 
 Watchers :
   - Pratyaksa Ocsa __(@pratyaksaocsa)__
-
-Worker :
-  - Kelvin Kurniawan Oktavianto __(@kelvinkurniawan)__
-  - Daniel Christian __(@danielchrist)__
