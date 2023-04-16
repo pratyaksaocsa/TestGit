@@ -2,10 +2,7 @@
 
 Ini teks tambahan lhoooo
 
-## Collabolators
+## Collaborators
 
-Watchers :
+Owner :
   - Pratyaksa Ocsa __(@pratyaksaocsa)__
-
-Worker :
-  - Kelvin Kurniawan Oktavianto __(@mastepin)__
